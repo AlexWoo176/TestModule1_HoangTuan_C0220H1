@@ -20,6 +20,6 @@ function findMaxScore(array) {
 
 function main() {
     let arrMax = inputArrScore();
-    document.write("Max Array is :" + findMaxScore(arrMax))
+    document.write("Max Array Score is :" + findMaxScore(arrMax))
 }
 main();
