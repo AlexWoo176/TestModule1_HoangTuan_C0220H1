@@ -13,7 +13,7 @@ function fibo(number) {
             fn = f0 + f1;
         }
     }
-    return fn
+    return fn;
 }
 
 function inputNumberChecked() {
